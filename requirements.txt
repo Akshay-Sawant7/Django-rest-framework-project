@@ -39,7 +39,6 @@ Pillow==8.2.0
 pipwin==0.5.1
 platformdirs==2.0.2
 psycopg2==2.9.1
-PyAudio @ file:///C:/Users/Rajashree/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
 PyGetWindow==0.0.9
 pyjokes==0.6.0
